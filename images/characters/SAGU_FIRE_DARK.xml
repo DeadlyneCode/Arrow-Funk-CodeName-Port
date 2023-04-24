@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SAGU_FIRE_DARK.png">
+<SubTexture name="Sagu Sing Note DOWN0000" x="579" y="2346" width="592" height="682" frameX="0" frameY="-21" frameWidth="593" frameHeight="703" />
+<SubTexture name="Sagu Sing Note DOWN0001" x="0" y="2346" width="579" height="697" frameX="-4" frameY="-6" frameWidth="593" frameHeight="703" />
+<SubTexture name="Sagu Sing Note DOWN0002" x="2530" y="0" width="578" height="703" frameX="-6" frameY="0" frameWidth="593" frameHeight="703" />
+<SubTexture name="Sagu Sing Note LEFT0000" x="1742" y="1591" width="463" height="719" frameX="0" frameY="-2" frameWidth="465" frameHeight="722" />
+<SubTexture name="Sagu Sing Note LEFT0001" x="836" y="1591" width="454" height="721" frameX="-10" frameY="0" frameWidth="465" frameHeight="722" />
+<SubTexture name="Sagu Sing Note LEFT0002" x="1290" y="1591" width="452" height="721" frameX="-12" frameY="0" frameWidth="465" frameHeight="722" />
+<SubTexture name="Sagu Sing Note RIGHT0000" x="528" y="819" width="541" height="770" frameX="0" frameY="-2" frameWidth="542" frameHeight="773" />
+<SubTexture name="Sagu Sing Note RIGHT0001" x="1184" y="0" width="528" height="772" frameX="0" frameY="0" frameWidth="542" frameHeight="773" />
+<SubTexture name="Sagu Sing Note RIGHT0002" x="0" y="819" width="528" height="772" frameX="0" frameY="0" frameWidth="542" frameHeight="773" />
+<SubTexture name="Sagu Sing Note UP0000" x="0" y="0" width="388" height="819" frameX="-4" frameY="0" frameWidth="399" frameHeight="820" />
+<SubTexture name="Sagu Sing Note UP0001" x="388" y="0" width="398" height="810" frameX="0" frameY="-9" frameWidth="399" frameHeight="820" />
+<SubTexture name="Sagu Sing Note UP0002" x="786" y="0" width="398" height="810" frameX="0" frameY="-9" frameWidth="399" frameHeight="820" />
+<SubTexture name="Sagu idle dance0000" x="0" y="1591" width="419" height="755" frameX="0" frameY="-13" frameWidth="420" frameHeight="769" />
+<SubTexture name="Sagu idle dance0001" x="419" y="1591" width="417" height="753" frameX="0" frameY="-15" frameWidth="420" frameHeight="769" />
+<SubTexture name="Sagu idle dance0002" x="2120" y="0" width="410" height="762" frameX="-2" frameY="-6" frameWidth="420" frameHeight="769" />
+<SubTexture name="Sagu idle dance0003" x="1069" y="819" width="409" height="768" frameX="-2" frameY="0" frameWidth="420" frameHeight="769" />
+<SubTexture name="Sagu idle dance0004" x="1712" y="0" width="408" height="768" frameX="-2" frameY="0" frameWidth="420" frameHeight="769" />
+<SubTexture name="Sagu idle dance0005" x="1712" y="768" width="408" height="767" frameX="-2" frameY="0" frameWidth="420" frameHeight="769" />
+</TextureAtlas>

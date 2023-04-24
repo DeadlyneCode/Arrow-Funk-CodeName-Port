@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kleitin.png">
+<SubTexture name="kleidance0000" x="0" y="1230" width="391" height="507" frameX="-100" frameY="-68" frameWidth="614" frameHeight="731" />
+<SubTexture name="kleidance0001" x="1192" y="686" width="385" height="524" frameX="-107" frameY="-52" frameWidth="614" frameHeight="731" />
+<SubTexture name="kleidance0002" x="806" y="686" width="386" height="530" frameX="-108" frameY="-45" frameWidth="614" frameHeight="731" />
+<SubTexture name="kleidance0003" x="806" y="686" width="386" height="530" frameX="-108" frameY="-45" frameWidth="614" frameHeight="731" />
+<SubTexture name="kleisusto0000" x="403" y="686" width="403" height="540" frameX="-174" frameY="-36" frameWidth="614" frameHeight="731" />
+<SubTexture name="kleisusto0001" x="0" y="686" width="403" height="544" frameX="-171" frameY="-32" frameWidth="614" frameHeight="731" />
+<SubTexture name="kleitin0000" x="0" y="0" width="560" height="686" frameX="-24" frameY="-18" frameWidth="614" frameHeight="731" />
+<SubTexture name="kleitin0001" x="560" y="0" width="573" height="662" frameX="-6" frameY="-48" frameWidth="614" frameHeight="731" />
+<SubTexture name="kleitin0002" x="1133" y="0" width="562" height="662" frameX="-18" frameY="-48" frameWidth="614" frameHeight="731" />
+<SubTexture name="kleitiro0000" x="1695" y="0" width="386" height="524" frameX="-120" frameY="-165" frameWidth="614" frameHeight="731" />
+<SubTexture name="kleitiro0001" x="1695" y="524" width="385" height="524" frameX="-121" frameY="-165" frameWidth="614" frameHeight="731" />
+</TextureAtlas>

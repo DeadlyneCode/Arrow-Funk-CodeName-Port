@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spookers_virus.png">
+<SubTexture name="SPEAKERS_VIRUS0000" x="0" y="0" width="2755" height="1000" frameX="0" frameY="0" frameWidth="2756" frameHeight="1001" />
+<SubTexture name="SPEAKERS_VIRUS0001" x="0" y="1000" width="2751" height="1000" frameX="0" frameY="0" frameWidth="2756" frameHeight="1001" />
+<SubTexture name="SPEAKERS_VIRUS0002" x="2755" y="0" width="2756" height="1000" frameX="0" frameY="0" frameWidth="2756" frameHeight="1001" />
+<SubTexture name="SPEAKERS_VIRUS0003" x="2755" y="1000" width="2756" height="1000" frameX="0" frameY="0" frameWidth="2756" frameHeight="1001" />
+<SubTexture name="SPEAKERS_VIRUS0004" x="0" y="2000" width="2756" height="1000" frameX="0" frameY="0" frameWidth="2756" frameHeight="1001" />
+<SubTexture name="SPEAKERS_VIRUS0005" x="0" y="2000" width="2756" height="1000" frameX="0" frameY="0" frameWidth="2756" frameHeight="1001" />
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="barbara.png">
+<SubTexture name="dance0000" x="1518" y="0" width="757" height="826" frameX="0" frameY="0" frameWidth="761" frameHeight="824" />
+<SubTexture name="dance0001" x="0" y="0" width="759" height="828" frameX="0" frameY="0" frameWidth="761" frameHeight="824" />
+<SubTexture name="dance0002" x="0" y="828" width="761" height="826" frameX="0" frameY="0" frameWidth="761" frameHeight="824" />
+<SubTexture name="dance0003" x="0" y="1654" width="762" height="823" frameX="0" frameY="0" frameWidth="761" frameHeight="824" />
+<SubTexture name="dance0004" x="1525" y="1654" width="764" height="821" frameX="0" frameY="0" frameWidth="761" frameHeight="824" />
+<SubTexture name="dance0005" x="3036" y="0" width="764" height="821" frameX="0" frameY="0" frameWidth="761" frameHeight="824" />
+<SubTexture name="dance0006" x="3036" y="821" width="764" height="821" frameX="0" frameY="0" frameWidth="761" frameHeight="824" />
+<SubTexture name="dance0007" x="3036" y="1642" width="764" height="821" frameX="0" frameY="0" frameWidth="761" frameHeight="824" />
+<SubTexture name="dance0008" x="761" y="828" width="757" height="826" frameX="0" frameY="0" frameWidth="761" frameHeight="824" />
+<SubTexture name="dance0009" x="759" y="0" width="759" height="828" frameX="0" frameY="0" frameWidth="761" frameHeight="824" />
+<SubTexture name="dance0010" x="2275" y="0" width="761" height="826" frameX="0" frameY="0" frameWidth="761" frameHeight="824" />
+<SubTexture name="dance0011" x="762" y="1654" width="763" height="823" frameX="0" frameY="0" frameWidth="761" frameHeight="824" />
+</TextureAtlas>

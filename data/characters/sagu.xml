@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" holdTime="2.1" color="#6d05a5">
+    <anim name="idle"      anim="Sagu idle dance"      fps="12" loop="false" x="0" y="0"/>
+    <anim name="singUP"    anim="Sagu Sing Note UP"    fps="24" loop="false" x="-6" y="50"/>
+    <anim name="singRIGHT"  anim="Sagu Sing Note RIGHT"  fps="24" loop="false" x="-10" y="10"/>
+    <anim name="singLEFT" anim="Sagu Sing Note LEFT" fps="24" loop="false" x="90" y="-30"/>
+    <anim name="singDOWN"  anim="Sagu Sing Note DOWN"  fps="24" loop="false" x="0" y="-40"/>
+</character>

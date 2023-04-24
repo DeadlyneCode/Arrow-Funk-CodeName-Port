@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SAGU.png">
+<SubTexture name="Sagu Sing Note DOWN0000" x="2940" y="0" width="590" height="678" frameX="0" frameY="-22" frameWidth="590" frameHeight="700" />
+<SubTexture name="Sagu Sing Note DOWN0001" x="2365" y="0" width="575" height="700" frameX="-5" frameY="0" frameWidth="590" frameHeight="700" />
+<SubTexture name="Sagu Sing Note LEFT0000" x="904" y="1587" width="500" height="717" frameX="0" frameY="-2" frameWidth="500" frameHeight="719" />
+<SubTexture name="Sagu Sing Note LEFT0001" x="417" y="1587" width="487" height="719" frameX="-11" frameY="0" frameWidth="500" frameHeight="719" />
+<SubTexture name="Sagu Sing Note RIGHT0000" x="526" y="817" width="539" height="768" frameX="0" frameY="-2" frameWidth="539" frameHeight="770" />
+<SubTexture name="Sagu Sing Note RIGHT0001" x="0" y="817" width="526" height="770" frameX="0" frameY="0" frameWidth="539" frameHeight="770" />
+<SubTexture name="Sagu Sing Note UP0000" x="0" y="0" width="385" height="817" frameX="-5" frameY="0" frameWidth="396" frameHeight="817" />
+<SubTexture name="Sagu Sing Note UP0001" x="1165" y="0" width="396" height="807" frameX="0" frameY="-10" frameWidth="396" frameHeight="817" />
+<SubTexture name="Sagu idle dance0000" x="0" y="1587" width="417" height="752" frameX="0" frameY="-14" frameWidth="417" frameHeight="766" />
+<SubTexture name="Sagu idle dance0001" x="1957" y="0" width="408" height="759" frameX="-2" frameY="-7" frameWidth="417" frameHeight="766" />
+<SubTexture name="Sagu idle dance0002" x="1065" y="817" width="408" height="762" frameX="0" frameY="0" frameWidth="417" frameHeight="766" />
+<SubTexture name="Sagu idle dance0003" x="1473" y="817" width="408" height="762" frameX="0" frameY="0" frameWidth="417" frameHeight="766" />
+<SubTexture name="Sagu Beatbox DOWN0000" x="2365" y="1393" width="509" height="678" frameX="0" frameY="-22" frameWidth="509" frameHeight="700" />
+<SubTexture name="Sagu Beatbox DOWN0001" x="2365" y="700" width="495" height="693" frameX="-5" frameY="-7" frameWidth="509" frameHeight="700" />
+<SubTexture name="Sagu Beatbox DOWN0002" x="1404" y="1587" width="491" height="700" frameX="-5" frameY="0" frameWidth="509" frameHeight="700" />
+<SubTexture name="Sagu Beatbox UP0000" x="385" y="0" width="385" height="816" frameX="-5" frameY="0" frameWidth="396" frameHeight="816" />
+<SubTexture name="Sagu Beatbox UP0001" x="770" y="0" width="395" height="807" frameX="0" frameY="-9" frameWidth="396" frameHeight="816" />
+<SubTexture name="Sagu Beatbox UP0002" x="1561" y="0" width="396" height="806" frameX="0" frameY="-10" frameWidth="396" frameHeight="816" />
+</TextureAtlas>
