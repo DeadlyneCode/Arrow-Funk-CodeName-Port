@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" holdTime="4"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
+
+   <anim name="cheer" anim="BARBARA Cheer" loop="false" x="0" y="59"/>
+   <anim name="sad" anim="BARBARA sad" loop="false" x="0" y="-12"/>
+   <anim name="idle" anim="BARBARA Dancing Beat" loop="false" x="0" y="-9"/>
+   <anim name="shock" anim="BARBAR Shock" loop="true" x="-2" y="-17"/>
+
+</character>

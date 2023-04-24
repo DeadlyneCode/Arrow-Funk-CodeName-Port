@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character isPlayer="true" flipX="true" holdTime="4" x="70" y="350" camY="10"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
+<character isPlayer="true" flipX="true" x="70" y="350" camY="10" color="#FF5292"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
 
    <anim name="idle" anim="BIDU idle dance" fps="12" loop="false" x="-5" y="0"/>
    <anim name="singLEFT" anim="BIDU NOTE LEFT0" fps="12" loop="false" x="55" y="0"/>
