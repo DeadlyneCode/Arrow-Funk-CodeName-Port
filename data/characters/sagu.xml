@@ -1,8 +1,17 @@
 <!DOCTYPE codename-engine-character>
-<character isPlayer="false" flipX="false" holdTime="2.1" color="#6d05a5">
-    <anim name="idle"      anim="Sagu idle dance"      fps="12" loop="false" x="0" y="0"/>
-    <anim name="singUP"    anim="Sagu Sing Note UP"    fps="24" loop="false" x="-6" y="50"/>
-    <anim name="singRIGHT"  anim="Sagu Sing Note RIGHT"  fps="24" loop="false" x="-10" y="10"/>
-    <anim name="singLEFT" anim="Sagu Sing Note LEFT" fps="24" loop="false" x="90" y="-30"/>
-    <anim name="singDOWN"  anim="Sagu Sing Note DOWN"  fps="24" loop="false" x="0" y="-40"/>
+<character isPlayer="false" flipX="false" holdTime="6.1" x="-70"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
+
+   <anim name="singLEFT" anim="Sagu Sing Note LEFT" fps="12" loop="false" x="138" y="-49"/>
+   <anim name="singDOWN" anim="Sagu Sing Note DOWN" fps="12" loop="false" x="20" y="-62"/>
+   <anim name="singUP" anim="Sagu Sing Note UP" fps="12" loop="false" x="-7" y="51"/>
+   <anim name="singRIGHT" anim="Sagu Sing Note RIGHT" fps="12" loop="false" x="-1" y="4"/>
+   <anim name="idle" anim="Sagu idle dance" fps="12" loop="false" x="0" y="0"/>
+   <anim name="idle-loop" anim="Sagu idle dance" fps="12" loop="true" x="0" y="0" indices="10,11,1212"/>
+   <anim name="singLEFT-loop" anim="Sagu Sing Note LEFT" fps="12" loop="true" x="-9" y="10" indices="12,13,14,15"/>
+   <anim name="singRIGHT-loop" anim="Sagu Sing Note RIGHT" fps="12" loop="true" x="0" y="27" indices="15,16,17,18"/>
+   <anim name="singUP-loop" anim="Sagu Sing Note UP" fps="12" loop="true" x="-6" y="50" indices="56,57,58,59"/>
+   <anim name="singDOWN-loop" anim="Sagu Sing Note DOWN" fps="12" loop="true" x="-6" y="50" indices="56,57,58,59"/>
+   <anim name="singDOWN-alt" anim="Sagu Beatbox DOWN" fps="12" loop="false" x="20" y="-62"/>
+   <anim name="singUP-alt" anim="Sagu Beatbox UP" fps="12" loop="false" x="-7" y="51"/>
+
 </character>

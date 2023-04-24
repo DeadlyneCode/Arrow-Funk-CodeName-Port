@@ -1,14 +1,25 @@
 <!DOCTYPE codename-engine-character>
-<character isPlayer="true" flipX="true" x="0" y="350" color="#fc256f">
-    <anim name="idle"          anim="BIDU idle dance"      fps="12" loop="false" x="-5"  y="0"/>
-    <anim name="singUP"        anim="BIDU NOTE UP0"        fps="24" loop="false" x="-29" y="47"/>
-    <anim name="singLEFT"      anim="BIDU NOTE LEFT0"      fps="24" loop="false" x="20"  y="-6"/>
-    <anim name="singRIGHT"     anim="BIDU NOTE RIGHT0"     fps="24" loop="false" x="8" y="-7"/>
-    <anim name="singDOWN"      anim="BIDU NOTE DOWN0"      fps="24" loop="false" x="-10" y="-35"/>
-    <anim name="singUPmiss"    anim="BIDU NOTE UP MISS"    fps="24" loop="false" x="-29" y="27"/>
-    <anim name="singLEFTmiss"  anim="BIDU NOTE LEFT MISS"  fps="24" loop="false" x="12"  y="24"/>
-    <anim name="singRIGHTmiss" anim="BIDU NOTE RIGHT MISS" fps="24" loop="false" x="-30" y="21"/>
-    <anim name="singDOWNmiss"  anim="BIDU NOTE DOWN MISS"  fps="24" loop="false" x="-11" y="-19"/>
-    <anim name="hey"           anim="BIDU HEY"             fps="24" loop="false" x="7"   y="4"/>
-    <anim name="scared"        anim="BIDU idle shaking"    fps="24" loop="true"  x="-4"  y="0"/>
+<character isPlayer="true" flipX="true" holdTime="4" x="70" y="350" camY="10"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
+
+   <anim name="idle" anim="BIDU idle dance" fps="12" loop="false" x="-5" y="0"/>
+   <anim name="singLEFT" anim="BIDU NOTE LEFT0" fps="12" loop="false" x="55" y="0"/>
+   <anim name="singDOWN" anim="BIDU NOTE DOWN0" fps="12" loop="false" x="-1" y="-39"/>
+   <anim name="singUP" anim="BIDU NOTE UP0" fps="12" loop="false" x="-16" y="49"/>
+   <anim name="singRIGHT" anim="BIDU NOTE RIGHT0" fps="12" loop="false" x="-9" y="-8"/>
+   <anim name="singLEFT-dodge" anim="BIDU NOTE LEFT DODGE0" fps="12" loop="false" x="51" y="-3"/>
+   <anim name="singDOWN-dodge" anim="BIDU NOTE DOWN DODGE0" fps="12" loop="false" x="61" y="-61"/>
+   <anim name="singUP-dodge" anim="BIDU NOTE UP DODGE0" fps="12" loop="false" x="8" y="261"/>
+   <anim name="singRIGHT-dodge" anim="BIDU NOTE RIGHT DODGE0" fps="12" loop="false" x="-24" y="-34"/>
+   <anim name="singLEFTmiss" anim="BIDU NOTE LEFT MISS" fps="12" loop="false" x="54" y="3"/>
+   <anim name="singDOWNmiss" anim="BIDU NOTE DOWN MISS" fps="12" loop="false" x="3" y="-35"/>
+   <anim name="singUPmiss" anim="BIDU NOTE UP MISS" fps="12" loop="false" x="-17" y="44"/>
+   <anim name="singRIGHTmiss" anim="BIDU NOTE RIGHT MISS" fps="12" loop="false" x="-5" y="-5"/>
+   <anim name="hey" anim="BIDU HEY" fps="12" loop="false" x="-2" y="-23"/>
+   <anim name="damage" anim="BIDU DAMAGE" fps="12" loop="false" x="-21" y="116"/>
+   <anim name="singDOWN-alt"  anim="BIDU BEATBOX DOWN0" fps="12" loop="false" x="0" y="-40"/>
+   <anim name="singUP-alt" anim="BIDU BEATBOX UP0" fps="12" loop="false" x="-21" y="50"/>
+   <anim name="firstDeath" anim="BIDU dies" fps="12" loop="false" x="56" y="30"/>
+   <anim name="deathLoop" anim="BIDU Dead Loop" fps="12" loop="true" x="48" y="-3"/>
+   <anim name="deathConfirm" anim="BIDU Dead confirm" fps="12" loop="false" x="48" y="74"/>
+
 </character>
