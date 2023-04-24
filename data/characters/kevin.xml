@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" isGF="true" flipX="false" x="50" y="40" color="#FFFFFF"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
+
+   <anim name="cheer" anim="KEVIN Cheer" loop="false" x="-7" y="-12"/>
+   <anim name="singLEFT" anim="KEVIN left note" loop="false" x="136" y="-2"/>
+   <anim name="singDOWN" anim="KEVIN Down Note" loop="false" x="0" y="-40"/>
+   <anim name="singUP" anim="KEVIN Up Note" loop="false" x="-9" y="112"/>
+   <anim name="singRIGHT" anim="KEVIN Right Note" loop="false" x="-41" y="-18"/>
+   <anim name="idle" anim="KEVIN Dancing Beat" loop="false" x="0" y="-9"/>
+
+
+</character>

@@ -1,0 +1,8 @@
+{
+    "displayName": "tutorial",
+    "bpm": 110.0,
+    "icon": "kevin",
+    "color": "#FFFFF",
+    "coopAllowed": true,
+    "opponentModeAllowed": true
+}
