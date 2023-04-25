@@ -3,8 +3,8 @@ function create(){
     bg = new FlxSprite(-30, 0).loadGraphic(Paths.image('menus/mainmenu/bg'));
     add(bg);
 
-    bgt = new FlxSprite(-30, 0).loadGraphic(Paths.image('menus/mainmenu/mmbg'));
-    bgt.velocity.x = 50;
+    bgt = new FlxSprite(-300).loadGraphic(Paths.image('menus/mainmenu/mmbg'));
+    FlxTween.tween(bgt, { x: -50}, 2, { type: FlxTween.PINGPONG, ease: FlxEase.quadInOut});
     add(bgt);
 
     story = new FlxSprite(-100,-80 );
