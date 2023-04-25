@@ -1,6 +1,11 @@
 function create(){
+
     bg = new FlxSprite(-30, 0).loadGraphic(Paths.image('menus/mainmenu/bg'));
     add(bg);
+
+    bgt = new FlxSprite(-30, 0).loadGraphic(Paths.image('menus/mainmenu/mmbg'));
+    bgt.velocity.x = 50;
+    add(bgt);
 
     story = new FlxSprite(-100,-80 );
     story.frames = Paths.getSparrowAtlas('menus/mainmenu/shit');
@@ -33,6 +38,7 @@ function create(){
 }
 
 function postCreate(){
+    magenta.destroy();
     for(e in state.menuItems) {
         e.scale.x = 0.7;
         e.scale.y= 0.7;
