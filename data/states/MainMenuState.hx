@@ -1,11 +1,14 @@
+import flixel.util.FlxAxes;
+import flixel.addons.display.FlxBackdrop;
+
 function create(){
 
     bg = new FlxSprite(-30, 0).loadGraphic(Paths.image('menus/mainmenu/bg'));
     add(bg);
-
-    bgt = new FlxSprite(-300).loadGraphic(Paths.image('menus/mainmenu/mmbg'));
-    FlxTween.tween(bgt, { x: -50}, 2, { type: FlxTween.PINGPONG, ease: FlxEase.quadInOut});
-    add(bgt);
+    
+   var panorama:FlxBackdrop = new FlxBackdrop(Paths.image("menus/mainmenu/mmbg"),FlxAxes.X , 0, 0);
+   panorama.velocity.x = 25;
+   add(panorama);
 
     story = new FlxSprite(-100,-80 );
     story.frames = Paths.getSparrowAtlas('menus/mainmenu/shit');
@@ -30,11 +33,6 @@ function create(){
 
     up = new FlxSprite(0, 0).loadGraphic(Paths.image('menus/mainmenu/mmov'));
     add(up);
-
-    sc = new FlxBackdrop(Paths.image("menus/mainmenu/mmbg"),0, 0,true,false,-10,0);
-    sc.y=100;
-	sc.velocity.set(150,0);
-    add(sc);
 }
 
 function postCreate(){
