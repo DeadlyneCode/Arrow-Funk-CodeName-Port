@@ -9,7 +9,8 @@ function postCreate(){
 function stepHit(curStep:Int){
 	switch(curStep) {
 		case 1:
-			tween = FlxTween.tween(song, { x:-200 }, 0.5);
+		tween = FlxTween.tween(song, { x:-200 }, 0.5);
+			
 		case 15:
-			tween = FlxTween.tween(song, { x:-800 }, 0.5);
+		tween = FlxTween.tween(song, { x:-800 }, 0.5);
 }}
