@@ -9,9 +9,9 @@ function postCreate(){
 function stepHit(curStep:Int){
 	switch(curStep) {
 		case 1:
-		tween = FlxTween.tween(song_name, { x:-200 }, 3, { type: FlxTween.PINGPONG, ease: FlxEase.smoothStepInOut});
+		  tween = FlxTween.tween(song_name, { x:-200 }, 3, { type: FlxTween.PINGPONG, ease: FlxEase.smoothStepInOut});
 
                 case 34:
-                tween.cancel();
-                song_name.destroy();
+                  tween.cancel();
+                  song_name.destroy();
 }}
