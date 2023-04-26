@@ -2453,8 +2453,8 @@
 			}
 		],
 		"player2": "sagu",
-		"gfVersion": "gf",
-		"player3": "barbara-blue",
+		"gfVersion": "BARBARA",
+		"player3": "BARBARA",
 		"song": "Reboop",
 		"validScore": true,
 		"needsVoices": true,

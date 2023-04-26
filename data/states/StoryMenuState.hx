@@ -1,3 +1,8 @@
+function update(){
+    if (FlxG.keys.justPressed.ENTER)
+    bf.animation.play('hey');
+}
+
 function postUpdate(){
     if (curWeek == 0)
     {
