@@ -42,9 +42,10 @@ function postCreate(){
     sagu.scale.x = sagu.scale.y = 0.575;
     add(sagu);
 
-    kevin = new FlxSprite(170,-50.8 );
+    kevin = new FlxSprite(168.5,-48.5 );
     kevin.frames = Paths.getSparrowAtlas('menus/storymenu/characters/AF');
     kevin.animation.addByPrefix('idle', 'KevinDance', 24);
     kevin.animation.play('idle');
     kevin.scale.x = kevin.scale.y = 0.575;
     add(kevin);
+}
