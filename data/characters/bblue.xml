@@ -1,9 +1,6 @@
 <!DOCTYPE codename-engine-character>
-<character isPlayer="false" isGF="true" flipX="false"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
-
-   <anim name="cheer" anim="BARBARA Cheer" fps="24" loop="false" x="0" y="59"/>
-   <anim name="sad" anim="BARBARA sad" fps="24" loop="false" x="0" y="-12"/>
-   <anim name="idle" anim="BARBARA Dancing Beat" fps="24" loop="false" x="0" y="-9"/>
-   <anim name="shock" anim="BARBAR Shock" fps="24" loop="true" x="-2" y="-17"/>
-
+<character x="0" icon="bblue" y="0" isGF="true" isPlayer="false" sprite="bblue">
+	<anim x="0" loop="false" y="59" fps="24" anim="BARBARA Cheer" name="cheer"/>
+	<anim x="0" loop="false" y="-12" fps="24" anim="BARBARA sad" name="sad"/>
+	<anim x="0" loop="false" y="-9" fps="24" anim="BARBARA Dancing Beat" name="idle"/>
 </character>
