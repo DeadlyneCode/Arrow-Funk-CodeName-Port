@@ -1,12 +1,9 @@
 <!DOCTYPE codename-engine-character>
-<character isPlayer="false" isGF="true" flipX="false" x="50" y="40" color="#FFFFFF"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
-
-   <anim name="cheer" anim="KEVIN Cheer" loop="false" x="-7" y="-12"/>
-   <anim name="singLEFT" anim="KEVIN left note" loop="false" x="136" y="-2"/>
-   <anim name="singDOWN" anim="KEVIN Down Note" loop="false" x="0" y="-40"/>
-   <anim name="singUP" anim="KEVIN Up Note" loop="false" x="-9" y="112"/>
-   <anim name="singRIGHT" anim="KEVIN Right Note" loop="false" x="-41" y="-18"/>
-   <anim name="idle" anim="KEVIN Dancing Beat" loop="false" x="0" y="-9"/>
-
-
+<character x="50" icon="kevin" y="40" isGF="true" camy="350" color="#FFFFFF" isPlayer="false" sprite="kevin">
+	<anim x="-7" loop="false" y="-12" fps="24" anim="KEVIN Cheer" name="cheer"/>
+	<anim x="136" loop="false" y="-2" fps="24" anim="KEVIN left note" name="singLEFT"/>
+	<anim x="0" loop="false" y="-40" fps="24" anim="KEVIN Down Note" name="singDOWN"/>
+	<anim x="-9" loop="false" y="112" fps="24" anim="KEVIN Up Note" name="singUP"/>
+	<anim x="-41" loop="false" y="-18" fps="24" anim="KEVIN Right Note" name="singRIGHT"/>
+	<anim x="0" loop="false" y="-9" fps="24" anim="KEVIN Dancing Beat" name="idle"/>
 </character>
